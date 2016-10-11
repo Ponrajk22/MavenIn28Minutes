@@ -1,0 +1,12 @@
+/Users/ponrajkrish/git/MavenIn28Minutes/3.multi-module-maven-project/model/src/main/java/com/in28minutes/example/layering/model/api/client/Collateral.java
+/Users/ponrajkrish/git/MavenIn28Minutes/3.multi-module-maven-project/model/src/main/java/com/in28minutes/example/layering/model/api/client/CollateralType.java
+/Users/ponrajkrish/git/MavenIn28Minutes/3.multi-module-maven-project/model/src/main/java/com/in28minutes/example/layering/model/impl/client/AmountImpl.java
+/Users/ponrajkrish/git/MavenIn28Minutes/3.multi-module-maven-project/model/src/main/java/com/in28minutes/example/layering/model/api/client/Amount.java
+/Users/ponrajkrish/git/MavenIn28Minutes/3.multi-module-maven-project/model/src/main/java/com/in28minutes/example/layering/model/api/client/Currency.java
+/Users/ponrajkrish/git/MavenIn28Minutes/3.multi-module-maven-project/model/src/main/java/com/in28minutes/example/layering/model/impl/client/ClientImpl.java
+/Users/ponrajkrish/git/MavenIn28Minutes/3.multi-module-maven-project/model/src/main/java/com/in28minutes/example/layering/model/impl/client/CollateralImpl.java
+/Users/ponrajkrish/git/MavenIn28Minutes/3.multi-module-maven-project/model/src/main/java/com/in28minutes/example/layering/model/api/client/ClientType.java
+/Users/ponrajkrish/git/MavenIn28Minutes/3.multi-module-maven-project/model/src/main/java/com/in28minutes/example/layering/model/api/client/ProductType.java
+/Users/ponrajkrish/git/MavenIn28Minutes/3.multi-module-maven-project/model/src/main/java/com/in28minutes/example/layering/model/impl/client/ProductImpl.java
+/Users/ponrajkrish/git/MavenIn28Minutes/3.multi-module-maven-project/model/src/main/java/com/in28minutes/example/layering/model/api/client/Client.java
+/Users/ponrajkrish/git/MavenIn28Minutes/3.multi-module-maven-project/model/src/main/java/com/in28minutes/example/layering/model/api/client/Product.java

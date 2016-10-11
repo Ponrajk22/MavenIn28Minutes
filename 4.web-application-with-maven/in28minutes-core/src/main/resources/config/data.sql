@@ -1,5 +1,5 @@
 --users
-INSERT INTO user VALUES (1,'UserName','user@in28minutes.com', 'password');
+INSERT INTO user VALUES (1,'UserName','admin', 'password');
 
 --todos
 
